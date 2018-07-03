@@ -1,0 +1,4 @@
+{
+  "name": "mqtt-example",
+  "modules": ["device"]
+}

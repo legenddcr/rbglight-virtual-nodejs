@@ -1,0 +1,15 @@
+{
+    "type": "device",
+    "build": [
+        {
+            "relativeDir": "rbglight-virtual-nodejs",
+            "cmd": "npm install"
+        }
+    ],
+    "run": [
+        {
+            "relativeDir": "rbglight-virtual-nodejs",
+            "cmd": "node index.js"
+        }
+    ]
+}

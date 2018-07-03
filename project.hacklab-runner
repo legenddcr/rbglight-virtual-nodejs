@@ -1,0 +1,1 @@
+{"title":"hacklab_mock_sensors","cwd":"/home/hacklab/hacklab_mock_sensors","initCmd":"yo aliyun-iot:project esp32 true true","buildCmd":"iotcli build","runCmd":"iotcli run"}

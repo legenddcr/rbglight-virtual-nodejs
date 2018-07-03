@@ -1,0 +1,9 @@
+{
+  "name": "rbglight-virtual-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aliyun-iot-device-sdk": "^0.2.16"
+  }
+}
